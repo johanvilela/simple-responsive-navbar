@@ -7,6 +7,7 @@
 </h4>
 
 <p align="center">
+  <a href="https://johanvilela.github.io/simple-responsive-navbar/" target="_blank">Demo</a> •
   <a href="#key-features">Key Features</a>
 </p>
 
